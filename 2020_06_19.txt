@@ -6,5 +6,5 @@ Today's Task
 
 2. COVID baseline code 돌려보기
 
-3. Hadoop 강의 수강
+3. Hadoop 강의 수강 : HDFS 명령어 실습
  
