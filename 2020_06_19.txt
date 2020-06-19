@@ -1,0 +1,10 @@
+2020.06.19 흐림
+
+Today's Task
+
+1. AI Challenge : COVID 화일 불러서 라벨링하기
+
+2. COVID baseline code 돌려보기
+
+3. Hadoop 강의 수강
+ 
