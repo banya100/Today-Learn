@@ -3,6 +3,12 @@
 학습내용
 
    1. CNN project 마무리 : 국가별 landmark classification
+
    2. AI Factory : 문제 설정
+
    3. Data augmentation practice
+
+   4. 국가별 랜드마크 분류모델 구성 및 개선 프리젠테이션
+
+   5. aichallenge2020 : COVID 분류모델 데이터 확인
    
