@@ -1,6 +1,6 @@
 ## 2020.06.23(화) Today's Task
 
-1.직업훈련 84일차 : 정지훈샘(GitHub활용법外
+1.직업훈련 84일차 : 정지훈샘(GitHub활용법外)
 
 2.AI Challenge
 
@@ -11,3 +11,8 @@
 
  2) PLANT
    - eraly-stopping 적용해보기
+
+
+3.예슬씨 코드 이해해보기!!!^^
+
+4.적용하기 쉬운 데이터 활용해서 Data Augmentation 해보기!!!
