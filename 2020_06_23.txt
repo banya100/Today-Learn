@@ -1,0 +1,13 @@
+## 2020.06.23(화) Today's Task
+
+1.직업훈련 84일차 : 정지훈샘(GitHub활용법外
+
+2.AI Challenge
+
+ 1) COVID
+   - VGG16 fine-tunning 적용해보기
+   - ensanble model 적용해보기
+   - image data generator 배우기
+
+ 2) PLANT
+   - eraly-stopping 적용해보기
