@@ -1,0 +1,13 @@
+## 2020.06.24(수) 비
+
+1.AI challenge 관련
+   1)특정 작물의 병해충 감염 방지를 위한 탐지 모델 개발
+     - learning rate : 0.01
+     - epoch : 1000
+     - batch size : 32
+     - 기준으로 트레이닝 실시 및 제출(시간상 제출 가능할지...ㅠㅠ)
+     - Conell University : An open access repository of images on plant health 
+                           to enable the development of mobile disease diagnostics
+     - 강화학습 검색해서 확인
+
+   2) space데이터 확인
