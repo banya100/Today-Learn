@@ -1,0 +1,9 @@
+## 2020_06_30 Today Learn
+
+*직업훈련 : 87일차
+
+* Github : link 설정
+
+* AIchallenge : 마무리 (배운점 무엇이 있는지 짜내기...ㅠㅠ)
+
+* 김성훈 교수님 : Reinforcement Learning intro 강의 듣기
