@@ -17,3 +17,8 @@
 └── week1 : 1주차 자료
     └── index.html
 ```
+### 기타
+ - 추후 보강
+
+### 내용
+ - 6/29 [Today Learn](https://github.com/banya100/Today-Learn/blob/master/2020_06_29.txt)
