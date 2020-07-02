@@ -1,0 +1,21 @@
+## 2020.07.02(목)
+
+- 데이터분석 직업훈련 90일차
+
+- 빅데이터 플렛폼 아키텍쳐설게 테스트
+
+
+
+- MongoDB 설치
+
+- GitHub 정리
+
+  * MongoDB & Hadoop : Repository 만들기
+
+  * project별 Repository 만들기
+
+  * Readme file 작성(참고할 GitHub 찾아보기)
+
+
+
+- 이력서 자소서 수정해서 작성해 보기
