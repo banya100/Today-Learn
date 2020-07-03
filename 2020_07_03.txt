@@ -1,0 +1,9 @@
+## 2020.7.3(금) 맑음
+
+* 직업훈련 91일차
+
+* 제안요청서 작성 테스트
+
+* 재량교과(모의면접) - 이력서 추가/수정 --> HRD & Wanted 이력서 업데이트
+
+* 2차 프로젝트(crawling & classification) : github upload
