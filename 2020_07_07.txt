@@ -1,0 +1,16 @@
+## 2020.07.07(화) 흐림
+
+* 직업훈련 93일차 : 
+
+
+* 새일센터 인턴지원서 작성해서 올리기!!
+
+* GitHub update : Today learn
+                  ML(분류모델의 성능평가
+
+
+* JEJU procjet
+  
+  - Dacon baseline code 로 진행해보기...
+
+  - EDA 통한 feature engineering
