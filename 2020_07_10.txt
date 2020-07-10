@@ -1,0 +1,7 @@
+## 2020.07.10(금) 비
+
+* 직업훈련 96일차 : .py에서 Class 만들어 사용하는 법
+
+* Jeju challenge 베이스라인코드 따라쳐보기...
+
+* google task에 목록정리(ML / Statistics)
