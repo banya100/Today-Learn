@@ -1,0 +1,10 @@
+## 2020.07.15(수) 맑음
+
+* 직업훈련 99일차(D-6)
+
+* JEJU challenge : EDA, 공유code 쳐보기 --> IDEA정리
+
+* GitHub Project 정리 : Markdown 사용해서 .ipynb화일 정리해서 올리기
+                        Repository 정리(삭제 및 공유할것 정리)
+
+* 이력서 update
